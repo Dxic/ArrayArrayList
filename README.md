@@ -14,6 +14,4 @@ NPM: 2410010146
 3. Salin ketiga file `.java` dari folder `ArrayArrayList` ke package tersebut.
 4. Jalankan file `MainTugas.java`.
 
-## Commit GitHub
-Gunakan pesan commit:
-`Tugas akhir: Pengelolaan Nilai Mahasiswa`
+
